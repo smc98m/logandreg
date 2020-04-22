@@ -1,0 +1,21 @@
+#wrapper {
+    padding: 30px;
+    width: fit-content;
+    background-color: navy;
+}
+
+.form {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: silver; 
+}
+
+#success {
+    background-color: darkgray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
